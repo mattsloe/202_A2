@@ -58,3 +58,9 @@ Module.symvers
 Mkfile.old
 dkms.conf
 .DS_Store
+showbits
+showBit/
+setbits
+grading_common.py
+grade_a2.py
+*.py
